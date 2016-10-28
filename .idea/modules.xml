@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DragInsertTextEdit.iml" filepath="$PROJECT_DIR$/DragInsertTextEdit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragAndInsertLayout.iml" filepath="$PROJECT_DIR$/DragAndInsertLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
